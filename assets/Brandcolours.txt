@@ -1,0 +1,6 @@
+Primary - Yellow - #FED715
+Secondary - Pink - #F17959
+Transition - Orange - #F8AC42
+
+Black - 121212
+White - ffffff
