@@ -1,0 +1,31 @@
+{
+    "Clients": [
+{
+    "id":"",
+    "icon.url":"",
+    "icon.label":"",
+    "name":"",
+    "designation":"",
+    "tenure": "",
+    "stack": [],
+    "feaures": [],
+    "outcomes": [],
+    "responsibilities":[],
+    "projectIds": [],
+    "organizationIds":[]
+},
+{
+    "id":"",
+    "icon.url":"",
+    "icon.label":"",
+    "name":"",
+    "designation":"",
+    "tenure": "",
+    "stack": [],
+    "feaures": [],
+    "outcomes": [],
+    "responsibilities":[],
+    "projectIds": [],
+    "organizationIds":[]
+}
+]}

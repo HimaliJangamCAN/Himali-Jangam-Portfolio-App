@@ -1,0 +1,28 @@
+{
+    "Projects": [
+        {
+            "id":"",
+            "name": "",
+            "contribution": "",
+            "duration": "",
+            "liveLink":"",
+            "stack": [],
+            "feaures": [],
+            "outcomes": [],
+            "clientId": "",
+            "organizationId":""
+        },
+        {
+            "id":"",
+            "name": "",
+            "contribution": "",
+            "duration": "",
+            "liveLink":"",
+            "stack": [],
+            "feaures": [],
+            "outcomes": [],
+            "client.id": "",
+            "organization.id":""
+        },
+        {}
+]}

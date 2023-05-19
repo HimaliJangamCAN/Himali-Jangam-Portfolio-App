@@ -1,0 +1,31 @@
+{
+    "Organizations": [
+{
+    "id":"",
+    "icon.url":"",
+    "icon.label":"",
+    "name":"",
+    "designation":"",
+    "tenure": "",
+    "stack": [],
+    "feaures": [],
+    "outcomes": [],
+    "responsibilities":[],
+    "clientIds": [],
+    "projectIds": []
+},
+{
+    "id":"",
+    "icon.url":"",
+    "icon.label":"",
+    "name":"",
+    "designation":"",
+    "tenure": "",
+    "stack": [],
+    "feaures": [],
+    "outcomes": [],
+    "responsibilities":[],
+    "clientIds": [],
+    "projectIds": []
+}
+]}
