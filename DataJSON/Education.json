@@ -1,12 +1,30 @@
 {
     "Education": [
 {
-    "id": "",
-    "name": "",
-    "gpa": "",
-    "duration":"",
+    "id": "edu001",
+    "name": "Bachelor of Engineering (B.E)",
+    "university": "University of Mumbai",
+    "gpa": "3.2/4",
+    "duration":"Aug 2008 - June 2012",
     "fyProject": [],
     "learnings": []
 },
-{}
+{
+    "id": "edu002",
+    "name": "Master of Business Administration",
+    "university": "University of Mumbai",
+    "gpa": "3.5/4",
+    "duration":"Aug 2015 - June 2017",
+    "fyProject": [],
+    "learnings": []
+},
+{
+    "id": "edu003",
+    "name": "DELF B1",
+    "university": "Alliance Francais de Bombay",
+    "gpa": "3/4",
+    "duration":"Aug 2020 - Sep 2022",
+    "fyProject": [],
+    "learnings": []
+}
 ]}

@@ -1,12 +1,154 @@
 {
     "Certifications": [
 {
-    "id": "",
-    "name": "",
-    "score": "",
-    "duration":"",
+    "id": "cert001",
+    "name": "Modern Angular 2023",
+    "score": "9.7/10",
+    "duration":"Jan 2023",
+    "prof": "Stephen Grider",
     "Projects": [],
-    "features": []
+    "features": [],
+    "tags": ["FE"]
+},
+{
+    "id": "cert002",
+    "name": "Modern React 2023",
+    "score": "9.8/10",
+    "duration":"Jan 2023",
+    "prof": "Stephen Grider",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE"]
+},
+{
+    "id": "cert003",
+    "name": "Advanced React Native 2023",
+    "score": "9.8/10",
+    "duration":"Jan 2023",
+    "prof": "Stephen Grider",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE"]
+},
+{
+    "id": "cert004",
+    "name": "Bootstrap 5 SASS & SCSS",
+    "score": "9.7/10",
+    "duration":"Nov 2022",
+    "prof": "Yosef Zedan",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE"]
+},
+{
+    "id": "cert005",
+    "name": "Material UI/ Semantic UI/ Tailwind CSS",
+    "score": "9.5/10",
+    "duration":"Nov 2022",
+    "prof": "Zachery Reece",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE"]
+},
+{
+    "id": "cert006",
+    "name": "Java Masterclass (Java 9 to 14)",
+    "score": "9.3/10",
+    "duration":"Dec 2022",
+    "prof": "Tim Buchalka",
+    "Projects": [],
+    "features": [],
+    "tags": ["BE"]
+},
+{
+    "id": "cert007",
+    "name": "Springboot & Spring Framework Masterclass",
+    "score": "9.4/10",
+    "duration":"Dec 2022",
+    "prof": "Ranga Karanam",
+    "Projects": [],
+    "features": [],
+    "tags": ["BE"]
+},
+{
+    "id": "cert008",
+    "name": "100 Days of Python",
+    "score": "9.8/10",
+    "duration":"Nov 2022",
+    "prof": "Dr. Angela Yu",
+    "Projects": [],
+    "features": [],
+    "tags": ["BE"]
+},
+{
+    "id": "cert009",
+    "name": "Node JS",
+    "score": "9.5/10",
+    "duration":"Oct 2022",
+    "prof": "Maximillian Schwarzmuller",
+    "Projects": [],
+    "features": [],
+    "tags": ["BE"]
+},
+{
+    "id": "cert010",
+    "name": "SQL & PostgreSQL",
+    "score": "9.4/10",
+    "duration":"Oct 2022",
+    "prof": "Stephen Grider",
+    "Projects": [],
+    "features": [],
+    "tags": ["BE"]
+},
+{
+    "id": "cert011",
+    "name": "Advanced MERN Stack development",
+    "score": "9.6/10",
+    "duration":"Feb 2023",
+    "prof": "Academind",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE","BE"]
+},
+{
+    "id": "cert012",
+    "name": "Advanced MEAN Stack development",
+    "score": "9.7/10",
+    "duration":"Feb 2023",
+    "prof": "Academind",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE","BE"]
+},
+{
+    "id": "cert013",
+    "name": "Zero To Mastery - Microservices & Microfrontend",
+    "score": "9.3/10",
+    "duration":"Feb 2023",
+    "prof": "Mo Binni",
+    "Projects": [],
+    "features": [],
+    "tags": ["FE","BE"]
+},
+{
+    "id": "cert014",
+    "name": "Zero To Mastery - Docker & Kubernetes",
+    "score": "9.9/10",
+    "duration":"Feb 2023",
+    "prof": "Andrei Neagoie",
+    "Projects": [],
+    "features": [],
+    "tags": ["Automation"]
+},
+{
+    "id": "cert015",
+    "name": "JEST: The Complete Testing Guide",
+    "score": "9.6/10",
+    "duration":"Feb 2023",
+    "prof": "Manuel Lorenz",
+    "Projects": [],
+    "features": [],
+    "tags": ["Test"]
 },
 {}
 ]}
