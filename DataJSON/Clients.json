@@ -11,8 +11,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj001", "proj002"],
+    "organizationIds":["org001"]
 },
 {
     "id":"cli002",
@@ -25,8 +25,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj003", "proj004", "proj005", "proj006"],
+    "organizationIds":["org002"]
 },
 {
     "id":"cli003",
@@ -39,8 +39,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj007"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli004",
@@ -53,8 +53,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj008"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli005",
@@ -67,8 +67,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj009"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli006",
@@ -81,8 +81,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj010"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli007",
@@ -95,8 +95,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj011"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli008",
@@ -109,8 +109,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj012"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli009",
@@ -123,8 +123,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj013"],
+    "organizationIds":["org003"]
 },
 {
     "id":"cli010",
@@ -137,8 +137,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj014", "proj015", "proj016", "proj017", "proj018", "proj019", "proj020"],
+    "organizationIds":["org004"]
 },
 {
     "id":"cli011",
@@ -151,7 +151,7 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "projectIds": [],
-    "organizationIds":[]
+    "projectIds": ["proj021", "proj022", "proj023", "proj024", "proj025"],
+    "organizationIds":["org005"]
 }
 ]}

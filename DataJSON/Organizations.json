@@ -11,8 +11,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "clientIds": [],
-    "projectIds": []
+    "clientIds": ["cli011"],
+    "projectIds": ["proj021", "proj022", "proj023", "proj024", "proj025"]
 },
 {
     "id":"org004",
@@ -25,8 +25,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "clientIds": [],
-    "projectIds": []
+    "clientIds": ["cli010"],
+    "projectIds": ["proj014", "proj015", "proj016", "proj017", "proj018", "proj019", "proj020"]
 },
 {
     "id":"org003",
@@ -39,8 +39,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "clientIds": [],
-    "projectIds": []
+    "clientIds": ["cli003", "cli004", "cli005", "cli006", "cli007", "cli008", "cli009"],
+    "projectIds": ["proj007", "proj008", "proj009", "proj010", "proj011", "proj012", "proj013"]
 },
 {
     "id":"org002",
@@ -53,8 +53,8 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "clientIds": [],
-    "projectIds": []
+    "clientIds": ["cli002"],
+    "projectIds": ["proj003", "proj004", "proj005", "proj006"]
 },
 {
     "id":"org001",
@@ -67,7 +67,7 @@
     "feaures": [],
     "outcomes": [],
     "responsibilities":[],
-    "clientIds": [],
-    "projectIds": []
+    "clientIds": ["cli001"],
+    "projectIds": ["proj001", "proj002"]
 }
 ]}
