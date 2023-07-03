@@ -1,0 +1,32 @@
+<nav class="">
+  <div class="grid grid-cols-3">
+
+    <!-- Logo -->
+    <div class="w-28 md:w-32 lg:w-36 col-span-1">
+      <a href="/">
+        <img  src="../../assets/logo/Logo1.png">
+      </a>
+    </div>
+
+    <!-- Menu -->
+    <div class="col-span-2 flex items-center absolute right-0 mt-10">
+      <div class="">
+        <div *ngIf="headerMenuList.length > 0" class="inline">
+          <a *ngFor="let menuItem of headerMenuList" class ="inline text-primary ml-1 text-xl font-montserrat font-bold" href="{{menuItem.menuURL}}"> {{menuItem.menuLabel}}</a>
+        </div>
+        <div *ngIf="headerIconList.length > 0" class="inline">
+          <div *ngFor="let iconItem of headerIconList" class="inline">
+            <a *ngIf="iconItem.iconLabel === 'Himali\'s current city'" (click)="modalCreationService.showModal = true">
+              <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+            </a>
+            <a *ngIf="iconItem.iconLabel !== 'Himali\'s current city'" href="{{iconItem.iconURL}}" >
+              <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Responsive Menu -->
+  </div>
+</nav>
