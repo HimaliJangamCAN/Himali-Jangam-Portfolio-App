@@ -10,23 +10,40 @@
 
     <!-- Menu -->
     <div class="col-span-2 flex items-center absolute right-0 mt-10">
-      <div class="">
-        <div *ngIf="headerMenuList.length > 0" class="inline">
-          <a *ngFor="let menuItem of headerMenuList" class ="inline text-primary ml-1 text-xl font-montserrat font-bold" href="{{menuItem.menuURL}}"> {{menuItem.menuLabel}}</a>
-        </div>
-        <div *ngIf="headerIconList.length > 0" class="inline">
-          <div *ngFor="let iconItem of headerIconList" class="inline">
-            <a *ngIf="iconItem.iconLabel === 'Himali\'s current city'" (click)="modalCreationService.showModal = true">
-              <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
-            </a>
-            <a *ngIf="iconItem.iconLabel !== 'Himali\'s current city'" href="{{iconItem.iconURL}}" >
-              <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
-            </a>
-          </div>
+      <div *ngIf="headerMenuList.length > 0" class="inline">
+        <a *ngFor="let menuItem of headerMenuList" class ="inline text-primary ml-1 text-xl font-montserrat font-bold" href="{{menuItem.menuURL}}"> {{menuItem.menuLabel}}</a>
+      </div>
+      <div *ngIf="headerIconList.length > 0" class="inline">
+        <div *ngFor="let iconItem of headerIconList" class="inline">
+          <a *ngIf="iconItem.iconLabel === 'Himali\'s current city'" (click)="modalCreationService.showModal = true">
+            <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+          </a>
+          <a *ngIf="iconItem.iconLabel !== 'Himali\'s current city'" href="{{iconItem.iconURL}}" >
+            <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+          </a>
         </div>
       </div>
     </div>
 
-    <!-- Responsive Menu -->
+    <!-- Responsive Menu for screens less than 720 px width -->
+    <!-- <div class="col-span-2 flex items-center absolute right-0 mt-10">
+      <div *ngIf="headerIconList.length > 0" class="inline">
+        <div *ngFor="let iconItem of headerIconList" class="inline">
+          <a *ngIf="iconItem.iconLabel === 'Himali\'s current city'" (click)="modalCreationService.showModal = true">
+            <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+          </a>
+          <a *ngIf="iconItem.iconLabel !== 'Himali\'s current city'" href="{{iconItem.iconURL}}" >
+            <img  src="{{iconItem.iconPath}}" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+          </a>
+        </div>
+      </div>
+      <div *ngIf="headerMenuList.length > 0" class="inline">
+        <a (click)="modalCreationService.showModal = true">
+            <img  src="../../assets/icons/Yproject.png" class ="w-10 md:w-12 lg:w-12 ml-1 inline">
+        </a>
+      </div>
+    </div> -->
+
   </div>
+
 </nav>

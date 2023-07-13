@@ -36,5 +36,19 @@
         "liveLink.label": "",
         "githubLink.url": "",
         "githubLink.label": ""
-    }
+    },
+    "HeaderIconsList": [
+        {
+            "iconLabel": "",
+            "iconPath": ""
+        },
+        {
+            "iconLabel": "",
+            "iconPath": ""  
+        },
+        {
+            "iconLabel": "",
+            "iconPath": "" 
+        }
+    ]
 }

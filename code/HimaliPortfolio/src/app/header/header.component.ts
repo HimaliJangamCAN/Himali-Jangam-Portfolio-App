@@ -35,9 +35,21 @@ export class HeaderComponent {
 
   headerMenuList: HeaderMenuModel[] = [
     {
-      menuLabel: "WORK",
+      menuLabel: "Projects",
       menuURL: "/see-some-briliant-work"
-    }
+    },
+    {
+      menuLabel: "Experiences",
+      menuURL: "/see-some-briliant-exp"
+    },
+    {
+      menuLabel: "Codeventures",
+      menuURL: "/see-some-briliant-blogs"
+    },
+    {
+      menuLabel: "Learn",
+      menuURL: "/book-some-briliant-classes"
+    },
     // {
     //   menuLabel: "BLOG",
     //   menuURL: "/see-some-briliant-thoughts"
